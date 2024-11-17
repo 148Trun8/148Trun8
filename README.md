@@ -44,3 +44,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=148Trun8" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src ="https://github-readme-activity-graph.vercel.app/graph?username=148Trun8&theme=rogue" alt=""/>
+</div>
