@@ -36,3 +36,7 @@
 
 ### :trophy: Достижения :
 
+<div>
+  <img src ="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=148Trun8" alt=""/>
+</div>
+
