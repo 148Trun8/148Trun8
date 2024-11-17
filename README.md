@@ -18,3 +18,7 @@
 
 
 ###  :skull: Обо мне :
+
+- :lotus_position_man: Frontend Backend developer
+- :astronaut: MPT Student
+- :eye: 4600 mmr dota 2
